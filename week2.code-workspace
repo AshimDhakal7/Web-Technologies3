@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../week 4/Externalcss"
+		},
+		{
+			"path": "../week 4/Internalcss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Internalcss"
+	}
+}
